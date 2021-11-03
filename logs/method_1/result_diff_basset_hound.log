@@ -1,0 +1,15 @@
+[2021/10/27 13:40:49] root INFO: input: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: True, value: 1.5972207734193944e-07
+[2021/10/27 13:40:49] root INFO: out: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: False, value: 1.2753978353430284e-06
+[2021/10/27 13:40:49] root INFO: visual_1: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: True, value: 2.2812689515205875e-09
+[2021/10/27 13:40:49] root INFO: visual_2: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: True, value: 2.310913016501104e-09
+[2021/10/27 13:40:49] root INFO: images_0: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: True, value: 1.5972207734193944e-07
+[2021/10/27 13:40:49] root INFO: images_1: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: True, value: 2.003788779347815e-08
+[2021/10/27 13:40:49] root INFO: images_2: 
+[2021/10/27 13:40:49] root INFO: 	mean diff: check passed: True, value: 2.1221444157504266e-08
+[2021/10/27 13:40:49] root INFO: diff check failed
