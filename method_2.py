@@ -12,10 +12,10 @@ if __name__ == '__main__':
 
     out_list = class_specific_method.generate()
 
-    # log
-    from reprod_log import ReprodLogger
-    reprod_logger = ReprodLogger()
-    for idx, image in enumerate(out_list):
-        reprod_logger.add(f"out_{idx}", image.cpu().detach().numpy())
+    # # log
+    # from reprod_log import ReprodLogger
+    # reprod_logger = ReprodLogger()
+    # for idx, image in enumerate(out_list):
+    #     reprod_logger.add(f"out_{idx}", image.cpu().detach().numpy())
 
-    reprod_logger.save(f"npy/method_2/result_pp.npy")
+    # reprod_logger.save(f"npy/method_2/result_pp.npy")
